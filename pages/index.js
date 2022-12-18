@@ -4,7 +4,7 @@ import buildspaceLogo from '../assets/buildspace-logo.png';
 
 <meta http-equiv="Cache-control" content="no-cache">
 
-/const Home = () => {
+const Home = () => {
   return (
     <div className="root">
       <div className="container">
@@ -12,7 +12,7 @@ import buildspaceLogo from '../assets/buildspace-logo.png';
           <div className="header-title">
             <h1>sup, insert your headline here</h1>
           </div>
-          <div className="header-subtitle"
+          <div className="header-subtitle">
             <h2>insert your subtitlddfae here</h2>
           </div>
         </div>
