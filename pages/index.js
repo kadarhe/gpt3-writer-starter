@@ -12,7 +12,7 @@ const Home = () => {
           <div className="header-title">
             <h1>sup, insert your headline here</h1>
           </div>
-          <div className="header-subtitle">
+          <div className="header-subtitle"
             <h2>insert your subtitlddfae here</h2>
           </div>
         </div>
