@@ -2,15 +2,13 @@ import Head from 'next/head';
 import Image from 'next/image';
 import buildspaceLogo from '../assets/buildspace-logo.png';
 
-<meta http-equiv="Cache-control" content="no-cache">
-
 const Home = () => {
   return (
     <div className="root">
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>sup, insert your headline here</h1>
+            <h1>sup, insert your headlHEADLINEine here</h1>
           </div>
           <div className="header-subtitle">
             <h2>insert your subtitlddfae here</h2>
