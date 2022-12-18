@@ -2,6 +2,8 @@ import Head from 'next/head';
 import Image from 'next/image';
 import buildspaceLogo from '../assets/buildspace-logo.png';
 
+<meta http-equiv="Cache-control" content="no-cache">
+
 const Home = () => {
   return (
     <div className="root">
