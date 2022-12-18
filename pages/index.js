@@ -11,7 +11,7 @@ const Home = () => {
             <h1>sup, insert your headline here</h1>
           </div>
           <div className="header-subtitle">
-            <h2>insert your subtitlde here</h2>
+            <h2>insert your subtitlddfae here</h2>
           </div>
         </div>
         {/* Add this code here*/}
