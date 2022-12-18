@@ -4,7 +4,7 @@ import buildspaceLogo from '../assets/buildspace-logo.png';
 
 <meta http-equiv="Cache-control" content="no-cache">
 
-const Home = () => {
+/const Home = () => {
   return (
     <div className="root">
       <div className="container">
